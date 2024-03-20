@@ -16,10 +16,10 @@ This project is a fully functional
  ## GamePlay
  * Use the arrow keys to control the snake's movement: up, down, left, and right.
  * The snake will automatically move in the current direction.
- *Try to eat as many apples as possible to increase your score and snake length.
+ * Try to eat as many apples as possible to increase your score and snake length.
  * Avoid hitting the boundaries or the snake's own body, as it will result in game over.
   ## Screenshot
-  ![about](images/snake.png)
+  ![about](snake1.png)
  
 ## Found A bug?
 If you find an issue or you would like to submit an improvement to this project,please submit an issue using the issues tab above.
