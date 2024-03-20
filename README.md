@@ -9,7 +9,7 @@ This project is a fully functional
 * AWT for APIS
 ## How To Install And Run Project
 * Ensure the aforementioned tools are setup
-* Just download the SnakeGame Jframe files
+* Just download the SnakeGame ".txt"  files in this repository and run in your IDE
 * Run it 
 * Start playing with the arrows keys. 
 * If you lose, just close it and re-run the source code
