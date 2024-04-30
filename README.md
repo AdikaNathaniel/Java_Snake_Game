@@ -31,7 +31,7 @@ This project was completed with assistance of a YouTube tutorial.Below is a link
 
 
 ## Try this game out and have fun! 🎮
-
+Share feedback at nathanieladikajnr@gmail.com
 
 
   
